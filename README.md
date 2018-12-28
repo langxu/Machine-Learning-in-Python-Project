@@ -9,7 +9,9 @@ Project 1 => 2017 flight data set basic analysis and visulization, with Tsne dim
 
 Project 2 => Skin cancer prediction using image extration method, with PCA/KPCA/RPCA dimension reduction for linear representation images.
 
-Project 3 => 2017 flight data set multiclass logistic regression analysis 
+Project 3 => 2017 flight data set with multiclass logistic regression analysis 
+
+Project 4 => 2017 flight data set with Multi-layer perceptron algorithm with L1 and L2 regularization and different activation function
 
 
 Feel free to let me if there is any improvement I could do for these projects. My email is michaelxu0515@gmail.com
