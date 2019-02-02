@@ -13,6 +13,8 @@ Project 3 => 2017 flight data set with multiclass logistic regression analysis
 
 Project 4 => 2017 flight data set with Multi-layer perceptron algorithm with L1 and L2 regularization and different activation function
 
+Project 5 => 2017 flight data set with wide and deep learning 
+
 
 Feel free to let me if there is any improvement I could do for these projects. My email is michaelxu0515@gmail.com
 
