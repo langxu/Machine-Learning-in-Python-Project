@@ -15,6 +15,7 @@ Project 4 => 2017 flight data set with Multi-layer perceptron algorithm with L1 
 
 Project 5 => 2017 flight data set with wide and deep learning 
 
+Project 6 => Plankton's prediction using CNN
 
 Feel free to let me if there is any improvement I could do for these projects. My email is michaelxu0515@gmail.com
 
